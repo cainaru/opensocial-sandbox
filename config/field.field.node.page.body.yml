@@ -1,0 +1,24 @@
+uuid: cab43a81-f4a2-4322-980d-5b7fef567dbc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.page
+  module:
+    - text
+_core:
+  default_config_hash: YqTLY16HlbKkePuAIBfan9dOaXbB-k2Vw3PdReMyYVc
+id: node.page.body
+field_name: body
+entity_type: node
+bundle: page
+label: Description
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary

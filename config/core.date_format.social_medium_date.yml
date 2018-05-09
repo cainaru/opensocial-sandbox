@@ -1,0 +1,10 @@
+uuid: 7e88a9b1-899e-431e-b6dc-65ba025251ad
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Lh0Rvn87J0sp5EpvRKVE43aoS3XVOWriPuVupW0-_As
+id: social_medium_date
+label: 'Social medium date'
+locked: false
+pattern: 'j M Y'

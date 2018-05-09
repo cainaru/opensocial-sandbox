@@ -1,0 +1,10 @@
+uuid: 34c13008-1a5e-46b6-aecf-e66c15ccb842
+langcode: en
+status: true
+dependencies:
+  module:
+    - mentions
+id: mentions.token
+label: Token
+targetEntityType: mentions
+cache: true

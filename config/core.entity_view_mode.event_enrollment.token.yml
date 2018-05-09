@@ -1,0 +1,10 @@
+uuid: bacf110b-b08d-4450-964e-008def8fcf48
+langcode: en
+status: true
+dependencies:
+  module:
+    - social_event
+id: event_enrollment.token
+label: Token
+targetEntityType: event_enrollment
+cache: true
