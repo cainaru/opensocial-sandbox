@@ -22,6 +22,11 @@ targetEntityType: node
 bundle: page
 mode: default
 content:
+  addtoany:
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
   body:
     label: hidden
     type: text_default
@@ -55,3 +60,4 @@ hidden:
   groups_type_open_group: true
   groups_type_public_group: true
   links: true
+  social_tagging: true

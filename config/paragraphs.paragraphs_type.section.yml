@@ -1,0 +1,11 @@
+uuid: ca77c869-cc6a-4d44-be67-daa4f7a0d098
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GsTn0qkl7QG4kZEow-tlsZVHwI4KwOY4mkpT-242EdY
+id: section
+label: Section
+icon_uuid: accf3442-783f-4fd9-803c-0a2a0f1d0f10
+description: 'A block section where can be selected a block or a paragraph'
+behavior_plugins: {  }
