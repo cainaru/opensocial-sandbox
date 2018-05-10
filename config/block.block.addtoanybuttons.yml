@@ -1,0 +1,32 @@
+uuid: 1fbe7442-1cdf-4872-87a6-d1afe3347d9b
+langcode: en
+status: true
+dependencies:
+  module:
+    - addtoany
+    - node
+  theme:
+    - socialbase
+_core:
+  default_config_hash: oBvuyGdELUwdru83y3BwheqicDdXWC0CvDjpDCk2Fpo
+id: addtoanybuttons
+theme: socialbase
+region: complementary_bottom
+weight: -25
+provider: null
+plugin: addtoany_block
+settings:
+  id: addtoany_block
+  label: 'Share this page'
+  provider: addtoany
+  label_display: visible
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      event: event
+      page: page
+      topic: topic
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

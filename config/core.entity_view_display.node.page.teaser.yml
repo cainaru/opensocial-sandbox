@@ -22,6 +22,11 @@ targetEntityType: node
 bundle: page
 mode: teaser
 content:
+  addtoany:
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
   field_content_visibility:
     type: list_default
     weight: 2
@@ -54,3 +59,4 @@ hidden:
   groups_type_closed_group: true
   groups_type_open_group: true
   groups_type_public_group: true
+  social_tagging: true
