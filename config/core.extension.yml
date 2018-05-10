@@ -6,10 +6,12 @@ module:
   activity_send_email: 0
   activity_viewer: 0
   address: 0
+  addtoany: 0
   admin_toolbar: 0
   admin_toolbar_tools: 0
   block: 0
   block_content: 0
+  block_field: 0
   breakpoint: 0
   ckeditor: 0
   color: 0
@@ -18,15 +20,19 @@ module:
   config_direct_save: 0
   config_update: 0
   crop: 0
+  csv_serialization: 0
   datetime: 0
+  download_count: 0
   dropdown: 0
   dynamic_entity_reference: 0
   editor: 0
   entity: 0
   entity_access_by_field: 0
+  entity_reference_revisions: 0
   features: 0
   field: 0
   field_group: 0
+  field_ui: 0
   file: 0
   filter: 0
   flag: 0
@@ -40,6 +46,7 @@ module:
   like_and_dislike: 0
   link: 0
   mailsystem: 0
+  media: 0
   mentions: 0
   menu_ui: 0
   message: 0
@@ -51,25 +58,36 @@ module:
   r4032login: 0
   search_api: 0
   search_api_db: 0
+  serialization: 0
   social_activity: 0
   social_comment: 0
+  social_comment_upload: 0
   social_core: 0
+  social_download_count: 0
   social_editor: 0
   social_event: 0
+  social_event_managers: 0
+  social_event_type: 0
   social_file_private: 0
   social_follow_content: 0
   social_font: 0
   social_group: 0
+  social_landing_page: 0
   social_like: 0
   social_mentions: 0
   social_page: 0
   social_post: 0
   social_post_photo: 0
   social_profile: 0
+  social_profile_privacy: 0
   social_search: 0
+  social_sharing: 0
   social_swiftmail: 0
+  social_tagging: 0
   social_topic: 0
+  social_tour: 0
   social_user: 0
+  social_user_export: 0
   swiftmailer: 0
   system: 0
   taxonomy: 0
@@ -78,12 +96,15 @@ module:
   text: 0
   token: 0
   toolbar: 0
+  tour: 0
   update: 0
   user: 0
   views_infinite_scroll: 0
+  views_ui: 0
   votingapi: 0
   menu_link_content: 1
   views: 10
+  paragraphs: 11
   improved_theme_settings: 50
   social: 1000
 theme:

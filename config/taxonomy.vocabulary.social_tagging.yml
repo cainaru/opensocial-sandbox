@@ -1,0 +1,11 @@
+uuid: f7358fea-d27d-4c7e-9ada-3012f45d74bf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MY2v56K-vHwAXhrNYv3Yx4nxSFap9b5IatfHO1HeFs8
+name: 'Content tags'
+vid: social_tagging
+description: 'Categories and terms used to tag content'
+hierarchy: 0
+weight: 0
