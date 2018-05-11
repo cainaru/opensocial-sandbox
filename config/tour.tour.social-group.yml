@@ -20,4 +20,4 @@ tips:
     body: 'Here you can see all the activity in this group and join it.'
     weight: 1
     attributes:
-      backdrop: 1
+      backdrop: '1'

@@ -22,4 +22,4 @@ tips:
     weight: 1
     attributes:
       data-class: flag-follow_content
-      backdrop: 1
+      backdrop: '1'
