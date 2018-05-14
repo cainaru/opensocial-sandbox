@@ -64,6 +64,7 @@ module:
   social_comment: 0
   social_comment_upload: 0
   social_core: 0
+  social_demo: 0
   social_download_count: 0
   social_editor: 0
   social_event: 0
